@@ -33,3 +33,4 @@ Compile e carregue o código no Raspberry Pi Pico W utilizando o ambiente de des
 Execute a simulação na plataforma Wokwi para visualizar o comportamento do servomotor.
 
 ## **Vídeo Demonstrativo**
+https://youtu.be/UQv2rVLgCTc
